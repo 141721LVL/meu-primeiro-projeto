@@ -1,5 +1,5 @@
 # meu-primeiro-projeto
-"Repositório criado para aprender os comandos básicos de Git e GitHub".
+
 # Análise de Evidência Clínica: Volume Ventricular vs. Severidade de Sintomas
 
 Este repositório contém o pipeline de análise quantitativa utilizado para correlacionar o volume dos ventrículos laterais com a escala de severidade neurológica em coortes clínicas (Controles vs. Patológicos).
